@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @khuushii
-- 👀 I’m interested in making beautiful websites
-- 🌱 I’m currently learning Web Development 
+Hey, I am Khushi I am a MERN Stack developer.
 <!---💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me https://www.linkedin.com/in/khushisharma4
 
